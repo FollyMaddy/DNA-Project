@@ -1,7 +1,7 @@
 
 # DNA_PCR_microbit_test_V18
 
-First attempt to make test program in blocks for microbit.
+First attempt to make a test program in blocks for microbit.
 
 Pictures of program added.
 
